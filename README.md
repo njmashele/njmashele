@@ -6,7 +6,7 @@ Hi, I’m Jon, an IT Specialist with a strong interest in technology and buildin
 
 ## 🌐 Client & Web Development Work
 
-Here are some of the websites I’ve designed and developed for clients:
+Here are some of the websites I’ve designed, developed and curreently manage for clients:
 
 <p align="left">
   <a href="https://acritusgroup.com/" target="_blank">
