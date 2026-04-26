@@ -25,12 +25,14 @@ Here are some of the websites I’ve designed and developed for clients:
 
 ## 🛠 What I Can Do
 
-- Build and manage business websites (custom and WordPress, Elementor)  
-- Develop internal tools and systems to streamline operations  
-- Design and manage structured databases  
-- Implement SEO strategies to improve visibility  
-- Support and maintain IT infrastructure in a business environment  
-- Work closely with teams or leadership to turn requirements into working solutions
+- Build and manage business websites (Landing Pages, Portfolios, Brochure Sites, Funnels, Full-Depth Websites, Ecommerce Sites)
+- Equip you with metrics and data analysis tools for your website and overall online presence
+- Create logo designs and reinterpret existing branding
+- Develop internal tools and systems to streamline operations
+- Design and manage structured databases
+- Implement SEO strategies to improve visibility
+- Support and maintain IT infrastructure within a business environment
+- Work closely with teams or leadership to turn requirements into practical, working solutions
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1N_V4Xg96I1DXN1W1bfqodj6R3m1J5BCk/view?usp=sharing" target="_blank">
