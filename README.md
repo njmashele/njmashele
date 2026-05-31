@@ -1,8 +1,8 @@
-## 👋 About Me
+## About Me
 
 Hi, I’m Jon, an IT Specialist with a strong interest in technology and building practical solutions. I enjoy working on real-world projects, experimenting with new ideas, and continuously improving my skills through hands-on development. My focus is on creating clean, functional, and user-friendly digital experiences.
 ---
-## 🌐 Client & Web Development Work
+## Client & Web Development Work
 
 Here are some of the websites I’ve designed and developed for clients:
 
@@ -23,7 +23,7 @@ Here are some of the websites I’ve designed and developed for clients:
 
 ---
 
-## 🛠 What I Can Do
+## What I Can Do
 
 - Build and manage business websites (Landing Pages, Portfolios, Brochure Sites, Funnels, Full-Depth Websites, Ecommerce Sites)
 - Equip you with metrics and data analysis tools for your website and overall online presence
