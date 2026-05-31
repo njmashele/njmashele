@@ -35,7 +35,7 @@ Here are some of the websites I’ve designed and developed for clients:
 - Work closely with teams or leadership to turn requirements into practical, working solutions
 
 <p align="center">
-  <a href="[[https://drive.google.com/file/d/1N_V4Xg96I1DXN1W1bfqodj6R3m1J5BCk/view?usp=sharing](https://docs.google.com/document/d/1UL2rRG9UGoWhz91KlhlvFCxlAjr6nStpT3RG8NOdvO0/edit?usp=sharing)](https://drive.google.com/file/d/1N_V4Xg96I1DXN1W1bfqodj6R3m1J5BCk/view?usp=drive_link)" target="_blank">
+  <a href="https://drive.google.com/file/d/1N_V4Xg96I1DXN1W1bfqodj6R3m1J5BCk/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-Download%20Here-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
