@@ -59,25 +59,6 @@ I enjoy building scalable, maintainable software that solves real business probl
 
 ---
 
-# ⭐ Featured Projects
-
-### 📚 Book Selling E-Store
-Full-stack ASP.NET Core MVC e-commerce application featuring authentication, role-based access, shopping cart functionality, SQL Server, Entity Framework Core, and complete CRUD operations.
-
-### 🚨 Disaster Alleviation Foundation
-Role-based disaster management platform built with ASP.NET Core MVC, Azure SQL, Entity Framework Core, and secure authentication.
-
-### 📅 Student Time Management System
-Desktop and web application developed using C#, WPF, ASP.NET Core, SQL Server, Entity Framework Core, and multithreading to help students manage schedules and academic progress.
-
-### 📱 Mobile Collection Tracker
-Android application developed using Java, Kotlin, Firebase, and XML for managing personal collections.
-
-### ⚙️ Internal CV Processing System
-Developed an internal automation tool that reduced CV processing time by approximately **70%**, improving consultant productivity and operational efficiency.
-
----
-
 # 🌐 Client Websites
 
 I've designed, developed, and maintained websites for:
