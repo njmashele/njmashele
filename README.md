@@ -4,8 +4,6 @@
 
 I'm an **IT Systems Analyst** based in South Africa with hands-on experience developing software, business systems, internal tools, SharePoint solutions, databases, and modern websites that improve business operations.
 
-Currently, I work at **TAKORA**, where I translate business requirements into practical technology solutions, manage internal business systems, oversee SharePoint development, build and maintain company websites, implement process automation, improve data management, and support IT security and operational efficiency.
-
 I hold a **Diploma in Information Technology (Software Development)** and I'm currently completing a **Bachelor of Business Information Systems**. My long-term goal is to continue growing as a Software Developer while expanding into Business Systems, Cloud Technologies, and IT Governance.
 
 I enjoy building scalable, maintainable software that solves real business problems and continuously learning new technologies.
@@ -42,20 +40,6 @@ I enjoy building scalable, maintainable software that solves real business probl
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 🚀 Professional Experience
-
-### IT Systems Analyst at TAKORA
-
-- Develop and maintain internal business systems and operational solutions.
-- Design and manage SharePoint intranet solutions, workflows, and documentation.
-- Build and maintain company websites with SEO optimization.
-- Design structured databases and reporting solutions.
-- Implement IT security and compliance initiatives.
-- Improve business processes through automation.
-- Translate stakeholder requirements into practical technology solutions.
 
 ---
 
